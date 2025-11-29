@@ -1,7 +1,7 @@
 name = "BonitoBook"
 uuid = "b416d416-7a6e-4336-8c1a-1f8a8cd59518"
-authors = ["Simon Danisch"]
 version = "0.2.0"
+authors = ["Simon Danisch"]
 
 [deps]
 ANSIColoredPrinters = "a4c015fc-c6ff-483c-b24f-f7ea428134e9"
@@ -41,6 +41,7 @@ BonitoBookPythonCallExt = ["PythonCall", "CondaPkg"]
 
 [compat]
 ANSIColoredPrinters = "0.0.1"
+AlgebraOfGraphics = "0.12"
 Base64 = "1"
 Bonito = "4.1.2"
 ClaudeCodeSDK = "0.1.0"
