@@ -1,7 +1,7 @@
 name = "BonitoBook"
 uuid = "b416d416-7a6e-4336-8c1a-1f8a8cd59518"
-authors = ["Simon Danisch"]
 version = "0.2.0"
+authors = ["Simon Danisch"]
 
 [deps]
 ANSIColoredPrinters = "a4c015fc-c6ff-483c-b24f-f7ea428134e9"
@@ -54,6 +54,7 @@ Makie = "0.22.2, 0.23, 0.24"
 Markdown = "1"
 Observables = "0.5.5"
 Pkg = "1"
+PromptingTools = "0.89"
 PythonCall = "0.9.25"
 REPL = "1"
 Random = "1"
